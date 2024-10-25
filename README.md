@@ -10,8 +10,7 @@
 - **Others**: Docker, Git, TDD, DDD.
 
 ### 🚧 Featured Projects
-- **[Project Name](https://github.com/username/project1)**: Short project description
-- **[Another Project](https://github.com/username/project2)**: Short project description
+- **[Serializable Transactions](https://github.com/michelmilezzi/article_serializable)**: Small project showing database `SERIALIZABLE` use cases and capabilities
 
 ### 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmilezzi&show_icons=true&theme=tokyonight)
