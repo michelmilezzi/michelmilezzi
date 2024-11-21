@@ -3,7 +3,7 @@
 🚀 I'm a software engineer with over 16 years of experience. I have working experience with many programming languages, with a particularly strong foundation in the Java ecosystem.
 
 ### 🌟 My Skills
-- **Languages**: Java, JavaScript, etc.
+- **Languages**: Java, JavaScript/Typescript, Go, etc.
 - **Frameworks & Libraries**: Express, Spring, Hibernate, etc.
 - **Databases**: PostgreSQL, MySQL, MongoDB, etc.
 - **Cloud**: AWS, GCP
